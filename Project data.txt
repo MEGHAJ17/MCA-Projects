@@ -1,0 +1,10 @@
+Back end Code:
+Google Collab
+Provide 25 GB RAM
+1. API  - Karege Runs on Tensor Flow (v 1.1.4)
+
+2.Package - Numpy
+              
+GUI : Pycharm IDE
+
+SGD (Sircostic Gradient Decent)
